@@ -1,1 +1,1 @@
-# Arithmetica
+# arithmetica
